@@ -10,3 +10,6 @@ First setup - just run GDPSUpdater.exe and it will create config.json
 
 Configure it and run again.
 It will run GD executable after updating or not finding em'.
+
+-------------------------------------
+You can find sources at https://github.com/relativemodder/gdps-autoupdater/tree/client-sources
