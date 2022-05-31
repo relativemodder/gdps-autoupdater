@@ -1,0 +1,10 @@
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\bin\Debug\GDPSUpdater.exe.config
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\bin\Debug\GDPSUpdater.exe
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\bin\Debug\GDPSUpdater.pdb
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\obj\Debug\GDPSUpdater.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\obj\Debug\GDPSUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\obj\Debug\GDPSUpdater.exe
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\obj\Debug\GDPSUpdater.pdb
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Иван\source\repos\GDPSUpdater\GDPSUpdater\obj\Debug\GDPSUpdater.csproj.CopyComplete
